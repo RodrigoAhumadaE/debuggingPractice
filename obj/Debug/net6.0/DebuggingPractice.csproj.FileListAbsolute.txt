@@ -1,0 +1,15 @@
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.exe
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.deps.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.runtimeconfig.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.csproj.AssemblyReference.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.AssemblyInfoInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.AssemblyInfo.cs
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\refint\DebuggingPractice.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.genruntimeconfig.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\DebuggingPractice\obj\Debug\net6.0\ref\DebuggingPractice.dll
