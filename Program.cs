@@ -50,7 +50,7 @@ MyString = "superduperawesome";
 Console.WriteLine(MyString.Substring(7, 1));
 // Challenge 6
 // Hint: some bugs don't come with error messages
-// el problema aquí es que solo se mostrará el mensaje si la funcion Next() nos entrega un 12, el resto de la veces no mostrará nada
+// la funcion Next(12) nos entrega un valor entre 0 y 11, la condición nunca se cumplirá 
 Random rand = new Random();
 int randomNum = rand.Next(12);
 if(randomNum == 12)
